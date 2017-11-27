@@ -10,8 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //第一次提交
-
-
-        //第二次提交
     }
 }
